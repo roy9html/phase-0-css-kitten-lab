@@ -1,4 +1,4 @@
-css kitten wheelbarrow place kitty.css
+
 .kitty-1 {
   border: 2px solid pink;  
 }
@@ -19,5 +19,5 @@ css kitten wheelbarrow place kitty.css
 
 /* Select the image that has an alt attribute value matching "Kitty 5" (using attribute selector) */
 img[alt="Kitty 5"] {
-  border: 2px solid blue;
+  border: 2px solid blue;
 }
